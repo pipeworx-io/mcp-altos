@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-altos",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Altos Research MCP — Real estate market intelligence",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-4b413e3413bbceccc4f481bf2999ef0ffd39eeabd275bffa51af0f3e5a5d8e06",
-    "sourceCommit": "351c40908821cfecc9bb2f5849d87bbfdbb26d75"
+    "sourceHash": "v1-43158301f35340d9eb1bf6a63ed02b00363b9492744a7c4fa6104b4acbf8d1d0",
+    "sourceCommit": "71f5325b13bb0ea0de2f0f7207885962ec91a484"
   }
 }
